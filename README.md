@@ -18,7 +18,7 @@ horizontal: [
  back: [0, -1], forth:[0, 1]  
 ]
 ```
-[Check Out the Related Code](https://github.com/alijawadi/connect-four/master/public/index#L305-L317)
+[Check Out the Related Code](https://github.com/alijawadi/connect-four/blob/master/public/index.html#L305-L317)
 
 If there was four array elements in a row marked the same color  in any of this directions, the winner is detected.
 
